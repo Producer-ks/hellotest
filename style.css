@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+/* text */
+p {
+    color:azure;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+div {
+    margin-bottom: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+
+    }
+
+
+    .parent p{
+        color: black;
+    }
